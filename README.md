@@ -1,5 +1,7 @@
 # 📺 Amazon Prime Video Analysis – Data Insights & Trends  
 
+![image](https://github.com/user-attachments/assets/c67cdfc0-f448-4b05-9d18-74769c9e0ad8)
+
 ## 📌 Overview  
 Amazon Prime Video is one of the leading streaming platforms, offering a vast collection of movies, TV shows, and documentaries. However, understanding **content distribution, trends, and viewer preferences** is crucial for **content acquisition, recommendation systems, and market positioning**.  
 
